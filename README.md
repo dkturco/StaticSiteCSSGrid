@@ -1,4 +1,4 @@
-# StaticSiteCSSGrid
+# Static Site with CSS Grid
 --------------------
 Static HTML site with CSS Grid.
 --
